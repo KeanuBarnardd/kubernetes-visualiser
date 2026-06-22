@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "48xfUwGConI=",
+  "dgSpecHash": "ZuN+9iPK5z8=",
   "success": true,
-  "projectFilePath": "c:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj",
+  "projectFilePath": "C:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\keanu\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.9\\microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+    "C:\\Users\\keanu\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.9\\microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512",
+    "C:\\Users\\keanu\\.nuget\\packages\\mudblazor\\9.5.0\\mudblazor.9.5.0.nupkg.sha512"
   ],
   "logs": []
 }

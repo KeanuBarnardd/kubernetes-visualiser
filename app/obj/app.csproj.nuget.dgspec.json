@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj": {}
+    "C:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj": {}
   },
   "projects": {
-    "c:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj": {
+    "C:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "c:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj",
+        "projectPath": "C:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\app.csproj",
         "packagesPath": "C:\\Users\\keanu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\obj\\",
+        "outputPath": "C:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keanu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[10.0.9, )",
               "autoReferenced": true
+            },
+            "MudBlazor": {
+              "target": "Package",
+              "version": "[9.5.0, )"
             }
           },
           "imports": [
