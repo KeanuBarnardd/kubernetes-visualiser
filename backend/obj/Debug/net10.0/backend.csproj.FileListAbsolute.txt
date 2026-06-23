@@ -35,3 +35,6 @@ C:\Users\keanu\Desktop\Projects\LEARNING\kubernetes visualiser\backend\obj\Debug
 C:\Users\keanu\Desktop\Projects\LEARNING\kubernetes visualiser\backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\keanu\Desktop\Projects\LEARNING\kubernetes visualiser\backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\keanu\Desktop\Projects\LEARNING\kubernetes visualiser\backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\keanu\Desktop\Projects\LEARNING\kubernetes visualiser\backend\bin\Debug\net10.0\Fractions.dll
+C:\Users\keanu\Desktop\Projects\LEARNING\kubernetes visualiser\backend\bin\Debug\net10.0\KubernetesClient.dll
+C:\Users\keanu\Desktop\Projects\LEARNING\kubernetes visualiser\backend\bin\Debug\net10.0\YamlDotNet.dll
