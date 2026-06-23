@@ -6,8 +6,13 @@
   let loading = $state(true);
 
   onMount(async () => {
-    nodes = await getApiKubernetesNodes();
-    loading = false;
+    try {
+      nodes = await getApiKubernetesNodes();
+    } catch (error) {
+      console.error(error);
+    } finally {
+      loading = false;
+    }
   });
 </script>
 
