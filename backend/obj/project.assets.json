@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "Fractions/7.3.0": {
@@ -609,11 +609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\backend\\backend.csproj",
+      "projectUniqueName": "c:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\backend\\backend.csproj",
+      "projectPath": "c:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\keanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\backend\\obj\\",
+      "outputPath": "c:\\Users\\keanu\\Desktop\\Projects\\LEARNING\\kubernetes visualiser\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keanu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -626,7 +626,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -645,7 +644,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "KubernetesClient": {
