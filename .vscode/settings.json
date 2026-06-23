@@ -1,3 +1,10 @@
 {
-    "dotnet.defaultSolution": "backend.sln"
+  "dotnet.defaultSolution": "backend.sln",
+  "biome.configurationPath": "biome.json",
+  "files.associations": {
+    "*.svelte": "svelte"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  }
 }
