@@ -1,2 +1,0 @@
-export type { GetApiKubernetesNodes200, GetApiKubernetesNodesQuery, GetApiKubernetesNodesQueryResponse } from "./GetApiKubernetesNodes.ts";
-export type { GetApiKubernetesPods200, GetApiKubernetesPodsQuery, GetApiKubernetesPodsQueryResponse } from "./GetApiKubernetesPods.ts";
