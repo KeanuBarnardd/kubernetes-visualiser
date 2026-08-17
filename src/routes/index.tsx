@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import BackgroundDotGrid from "./-components/background-dot-grid";
-import Navbar from "./-components/navbar";
-
+import KubernetesMap from "./-components/kubernetes-map";
+import Navbar from "./-components/nodes-navbar";
 export const Route = createFileRoute("/")({ component: Home });
 
 function Home() {
@@ -9,6 +9,7 @@ function Home() {
 		<div className="w-screen h-screen p-4">
 			<BackgroundDotGrid />
 			<Navbar />
+			<KubernetesMap />
 		</div>
 	);
 }
